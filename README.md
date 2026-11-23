@@ -1,5 +1,7 @@
 # Routine Grid
 
+<a href="https://github.com/Patels-Labs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-dark.png"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-light.png" height="40"></picture></a>
+
 A habit tracking application that allows users to track both singular (yes/no completion) and timed habits (duration-based) in a structured format.
 
 Built using UV, Django, and PostgreSQL.
